@@ -1,3 +1,5 @@
+https://react-pizza-sandy-one.vercel.app/
+
 # 🛠 Технологии:
 
 - **ReactJS 18**
